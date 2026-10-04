@@ -1,2 +1,2 @@
-# duo-git-nomedasduplas
-Projeto em dupla - Thomas e Aurélio
+
+#Projeto em dupla - Thomas e Aurélio
