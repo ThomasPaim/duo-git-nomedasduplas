@@ -1,1 +1,1 @@
-# duo-git-nomedasduplas
+# Atividade Git e GitHub - Thomas e Aurélio
