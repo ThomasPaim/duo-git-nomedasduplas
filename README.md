@@ -1,2 +1,1 @@
-
-#Projeto em dupla - Thomas e Aurélio
+# Atividade Git e GitHub - Thomas e Aurélio
